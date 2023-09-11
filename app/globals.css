@@ -1,17 +1,17 @@
 html, body, p, h1, label, div {
-  font-family: 'TF2', 'Helvetica','Arial';
-  src: url('/fonts/TF2.ttf') format('truetype');
+  font-family: 'Helvetica';
 }
 
 p {
   text-align: center;
   font-size: 22px;
-  backdrop-filter: blur(5px);
 }
 
 h1 {
   text-align: center;
   font-size: 36px;
+  font-family: 'TF2', 'Helvetica','Arial';
+  src: url('/fonts/TF2.ttf') format('truetype');
 }
 
 div {
